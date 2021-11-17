@@ -3,7 +3,7 @@
 It's an easy to use, flexible Pomodoro Technique timer written in Python using Tkinter module.
 
 <p align="center">
-  <img src="https://i.giphy.com/media/Svl9NX64UhfZ1Q7AbZ/giphy.webp" alt="crossroad"/>
+  <img src="https://i.giphy.com/media/Svl9NX64UhfZ1Q7AbZ/giphy.webp" alt="pomodoro"/>
 </p>
 
 # Installing
